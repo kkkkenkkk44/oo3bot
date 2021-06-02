@@ -1,1 +1,1 @@
-worker: npm start
+worker: node oo3.js
