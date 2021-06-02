@@ -1,0 +1,23 @@
+{
+  "name": "oo3bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "oo3.js",
+  "scripts": {
+    "start": "node oo3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkkkenkkk44/oo3bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkkkenkkk44/oo3bot/issues"
+  },
+  "homepage": "https://github.com/kkkkenkkk44/oo3bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
